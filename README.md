@@ -1,1 +1,1 @@
-# star
+configure github repos
